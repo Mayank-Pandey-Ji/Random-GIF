@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Random-GIF/static/css/main.8eecee27.css",
+    "main.js": "/Random-GIF/static/js/main.4671df37.js",
+    "static/js/453.c8c9677e.chunk.js": "/Random-GIF/static/js/453.c8c9677e.chunk.js",
+    "index.html": "/Random-GIF/index.html",
+    "main.8eecee27.css.map": "/Random-GIF/static/css/main.8eecee27.css.map",
+    "main.4671df37.js.map": "/Random-GIF/static/js/main.4671df37.js.map",
+    "453.c8c9677e.chunk.js.map": "/Random-GIF/static/js/453.c8c9677e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eecee27.css",
+    "static/js/main.4671df37.js"
+  ]
+}
